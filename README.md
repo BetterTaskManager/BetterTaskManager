@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/app-icon.png" alt="Better Task Manager" width="128" height="128">
+  <img src="https://bettertaskmanager.com/app-icon.png" alt="Better Task Manager" width="128" height="128">
 </p>
 
 <h1 align="center">Better Task Manager</h1>
@@ -11,11 +11,7 @@
 <p align="center">
   <a href="https://github.com/BetterTaskManager/BetterTaskManager/releases">
     <img src="https://img.shields.io/github/v/release/BetterTaskManager/BetterTaskManager?style=flat-square"/>
-  </a>
-  <a href="https://discord.gg/ghQ8nQK2ma">
-    <img src="https://img.shields.io/discord/753338394481787070?label=Discord"/>
-  </a>
-</p>
+  </a></p>
 
 ---
 ## History
