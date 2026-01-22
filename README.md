@@ -35,8 +35,6 @@ Download the latest release for your platform from the [Releases](https://github
 | macOS (Intel) | Not tested |
 | Linux | Planned |
 
-64-bit only.
-
 ### Running with Admin/Root Privileges
 
 Admin privileges are recommended but not required. Without elevated privileges:
