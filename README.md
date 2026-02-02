@@ -29,8 +29,7 @@ Download the latest release for your platform from the [Releases](https://github
 
 | Platform | Status |
 |----------|--------|
-| Windows 11 | Supported |
-| Windows 10 | Not tested |
+| Windows 11 | Coming Soon |
 | macOS (Apple Silicon) | Supported |
 | macOS (Intel) | Not tested |
 | Linux | Planned |
