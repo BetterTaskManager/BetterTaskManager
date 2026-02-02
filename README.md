@@ -62,7 +62,6 @@ This directory is separate from the application installation, so your data persi
 - **Website** - [bettertaskmanager.com](https://bettertaskmanager.com)
 - **Feature Requests & Questions** - [Discussions](https://github.com/BetterTaskManager/BetterTaskManager/discussions)
 - **Report a Bug** - [Issues](https://github.com/BetterTaskManager/BetterTaskManager/issues)
-- **Community** - [Discord Server](https://discord.gg/ghQ8nQK2ma)
 
 ---
 
