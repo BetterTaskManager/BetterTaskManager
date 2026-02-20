@@ -34,15 +34,6 @@ Download the latest release for your platform from the [Releases](https://github
 | macOS (Intel) | Not tested |
 | Linux | Planned |
 
-### Running with Admin/Root Privileges
-
-Admin privileges are recommended but not required. Without elevated privileges:
-
-- Some hardware stats won't be collected
-- Some process affinities can't be modified (e.g., `audiodg`)
-- Battery control features require root on macOS (`sudo`)
-
----
 
 ## Data Storage
 
