@@ -32,7 +32,7 @@ Download the latest release for your platform from the [Releases](https://github
 | Windows 11 | Supported / testing |
 | macOS (Apple Silicon) | Supported |
 | macOS (Intel) | Not tested |
-| Linux | Planned |
+| Linux | Supported |
 
 
 ## Data Storage
